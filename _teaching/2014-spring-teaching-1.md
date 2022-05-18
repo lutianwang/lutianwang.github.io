@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "BU CAS CS 131: Combinatoric Stuctures, Course Assistant""
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -8,13 +8,12 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post. I'm good
+The course description is available [here](https://www.bu.edu/academics/cas/courses/cas-cs-131/). I am the course assistant of this course under the supervision of 
+Prof. [Vahid Azadeh-Ranjbar](https://www.bu.edu/cs/profiles/vahid-azadeh-ranjbar/). Topics covered in this course are listed below:
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- First order logic 
+- Boolean Algebra
+- Set theory 
+- Number theory
+- Combinartorics
+- Proof techniques
