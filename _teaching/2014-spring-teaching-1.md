@@ -1,5 +1,5 @@
 ---
-title: "BU CAS CS 131: Combinatoric Stuctures, Course Assistant""
+title: "BU CAS CS 131: Combinatoric Stuctures, Course Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
