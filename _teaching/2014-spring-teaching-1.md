@@ -2,8 +2,8 @@
 title: "BU CAS CS 131: Combinatoric Stuctures, Course Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+permalink: /teaching/CS-131-CA
+institution: "Boston University, Department of Computer Science"
 date: 2014-01-01
 excerpt: "Software Carpentry is a global non-profit organization that provides free, short workshops on scientific computing and data science. I have been a certified instructor with SWC since May 2016."
 ---
