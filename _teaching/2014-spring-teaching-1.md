@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
 date: 2014-01-01
-location: "City, Country"
+excerpt: "Software Carpentry is a global non-profit organization that provides free, short workshops on scientific computing and data science. I have been a certified instructor with SWC since May 2016."
 ---
 
 The course description is available [here](https://www.bu.edu/academics/cas/courses/cas-cs-131/). I am the course assistant of this course under the supervision of 
