@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chuhan Li"
+title                    : "Luti-an Wang"
 title_separator          : "-"
-name                     : &name "Chuhan Li"
+name                     : &name "Luti-an Wang"
 description              : &description "personal description"
 url                      : https://lutianwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chuhan Li <br> 黎楚涵"
+  name             : "Luti-an Wang <br> 王璐湉"
   avatar           : "profile.png"
-  bio              : "Undergraduate student in Boston University in Computer Science and Statistics"
-  location         : "Boston, MA"
+  bio              : "Undergraduate student in University of Southern California in Public Relations"
+  location         : "Los Angeles, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "lich@bu.edu"
+  email            : "lutianwa@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LeeChuh"
+  github           : "Luti-anWang"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/lee_chuh_ig/"
+  instagram        : # "https://www.instagram.com/lee_chuh_ig/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/chuhan-li-9006a01b1/"
+  linkedin         : # "https://www.linkedin.com/in/chuhan-li-9006a01b1/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
