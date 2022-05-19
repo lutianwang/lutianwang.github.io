@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Snow Bunting"
+excerpt: "Snow Bunting in Pleasure Bay, MA<br/><img src='/images/snow_bunting.JPG'>"
 collection: portfolio
 ---
 
