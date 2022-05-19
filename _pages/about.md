@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! This is Chuhan Li. I'm an undergraduate in Boston University major in [Computer Science](https://www.bu.edu/cs/) and [Statistics](https://www.bu.edu/stat/). I'm interested in machine learning, deep learning, statistical machine learning, approximation algorithm, and randomized algorithm. What's more, I'm a bird-watcher, wildlife photographer, and the member of [MassAudubon](https://www.massaudubon.org). In addition, I plan to be a YouTuber this summer sharing my thoughts and ideas about first-order logic, elementary proof techniques, elementary discrete math, randomized algorithm, approximation algorithm, and machine learning. 
+Hello hi! This is Chuhan Li. I'm an undergraduate in Boston University major in [Computer Science](https://www.bu.edu/cs/) and [Statistics](https://www.bu.edu/stat/). I'm interested in machine learning, deep learning, statistical machine learning, approximation algorithm, and randomized algorithm. What's more, I'm a bird-watcher, wildlife photographer, and the member of [MassAudubon](https://www.massaudubon.org). In addition, I plan to be a YouTuber this summer sharing my thoughts and ideas about first-order logic, elementary proof techniques, elementary discrete math, randomized algorithm, approximation algorithm, and machine learning. 
 
 
 Undergraduate @BU
