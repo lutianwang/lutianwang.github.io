@@ -1,5 +1,5 @@
 ---
-title: "BU CAS CS 332: Elements of the Theory of Computation, Grader"
+title: "BU CAS CS 332: Elements of the Theory of Computation (Spring 2021), Grader"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/CS-332-grader
