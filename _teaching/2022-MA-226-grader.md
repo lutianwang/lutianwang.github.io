@@ -1,7 +1,7 @@
 ---
 title: "BU CAS MA 226: Differential Equations, Grader"
 collection: teaching
-type: "Undergraduate course"
+type: "**Spring 2022**"
 permalink: /teaching/MA-226-grader
 venue: "Boston University, Department of Mathematics and Statistics"
 date: 2022-01-13
