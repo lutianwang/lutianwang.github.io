@@ -1,7 +1,7 @@
 ---
 title: "BU CAS CS 330: Introduction to Analysis of Algorithms, Grader"
 collection: teaching
-type: "Undergraduate course"
+type: "Fall 2021"
 permalink: /teaching/CS-330-grader
 venue: "Boston University, Department of Computer Science"
 date: 2021-09-03
