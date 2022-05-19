@@ -1,7 +1,7 @@
 ---
 title: "BU CAS CS 332: Elements of the Theory of Computation, Grader"
 collection: teaching
-type: "Undergraduate course"
+type: "**Spring 2022**"
 permalink: /teaching/CS-332-grader
 venue: "Boston University, Department of Computer Science"
 date: 2022-01-13
