@@ -1,5 +1,5 @@
 ---
-title: "BU CAS CS 330: Introduction to Analysis of Algorithms (Fall 2021), Grader"
+title: "BU CAS CS 330: Introduction to Analysis of Algorithms, Grader"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/CS-330-grader
