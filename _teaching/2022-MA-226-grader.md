@@ -1,5 +1,5 @@
 ---
-title: "BU CAS MA 226: Differential Equations (Spring 2022), Grader"
+title: "BU CAS MA 226: Differential Equations, Grader"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/MA-226-grader
