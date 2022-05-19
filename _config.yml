@@ -11,9 +11,9 @@ title                    : "Chuhan Li"
 title_separator          : "-"
 name                     : &name "Chuhan Li"
 description              : &description "personal description"
-url                      : https://LeeChuh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lutianwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LeeChuh/LeeChuh.github.io"
+repository               : "lutianwang/lutianwang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
